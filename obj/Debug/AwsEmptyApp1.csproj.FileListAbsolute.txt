@@ -1,0 +1,8 @@
+c:\users\oגקג\documents\visual studio 2010\Projects\AwsConsoleApp1\AwsEmptyApp1\bin\Debug\AwsEmptyApp1.exe.config
+c:\users\oגקג\documents\visual studio 2010\Projects\AwsConsoleApp1\AwsEmptyApp1\bin\Debug\AwsEmptyApp1.exe
+c:\users\oגקג\documents\visual studio 2010\Projects\AwsConsoleApp1\AwsEmptyApp1\bin\Debug\AwsEmptyApp1.pdb
+c:\users\oגקג\documents\visual studio 2010\Projects\AwsConsoleApp1\AwsEmptyApp1\bin\Debug\AWSSDK.dll
+c:\users\oגקג\documents\visual studio 2010\Projects\AwsConsoleApp1\AwsEmptyApp1\bin\Debug\AWSSDK.xml
+c:\users\oגקג\documents\visual studio 2010\Projects\AwsConsoleApp1\AwsEmptyApp1\obj\Debug\AwsEmptyApp1.csprojResolveAssemblyReference.cache
+c:\users\oגקג\documents\visual studio 2010\Projects\AwsConsoleApp1\AwsEmptyApp1\obj\Debug\AwsEmptyApp1.exe
+c:\users\oגקג\documents\visual studio 2010\Projects\AwsConsoleApp1\AwsEmptyApp1\obj\Debug\AwsEmptyApp1.pdb
